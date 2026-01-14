@@ -1,0 +1,36 @@
+1 2 has taken a right fork #0
+1 2 has taken a left fork #1
+1 2 is eating
+1 4 has taken a right fork #2
+1 4 has taken a left fork #3
+1 4 is eating
+1 5 has taken a left fork #4
+202 2 is sleeping
+202 1 has taken a left fork #0
+202 3 has taken a left fork #2
+202 4 is sleeping
+202 3 has taken a right fork #1
+202 3 is eating
+202 5 has taken a right fork #3
+202 5 is eating
+403 5 is sleeping
+403 1 has taken a right fork #4
+403 1 is eating
+403 4 is thinking
+403 3 is sleeping
+403 4 has taken a right fork #2
+403 4 has taken a left fork #3
+403 4 is eating
+403 2 is thinking
+604 3 is thinking
+604 4 is sleeping
+604 3 has taken a left fork #2
+604 3 has taken a right fork #1
+604 3 is eating
+604 1 is sleeping
+604 5 is thinking
+604 5 has taken a left fork #4
+604 5 has taken a right fork #3
+604 5 is eating
+604 2 has taken a right fork #0
+801 2 died

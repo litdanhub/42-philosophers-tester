@@ -1,0 +1,146 @@
+0 3 has taken a left fork #2
+0 3 has taken a right fork #1
+0 3 is eating
+0 1 has taken a left fork #0
+0 5 has taken a left fork #4
+0 5 has taken a right fork #3
+0 5 is eating
+201 3 is sleeping
+201 4 has taken a right fork #2
+201 5 is sleeping
+201 1 has taken a right fork #4
+201 1 is eating
+201 4 has taken a left fork #3
+201 4 is eating
+402 1 is sleeping
+402 2 has taken a right fork #0
+402 2 has taken a left fork #1
+402 2 is eating
+402 3 is thinking
+402 4 is sleeping
+402 3 has taken a left fork #2
+402 5 is thinking
+402 5 has taken a left fork #4
+402 5 has taken a right fork #3
+402 5 is eating
+603 1 is thinking
+603 4 is thinking
+603 2 is sleeping
+603 1 has taken a left fork #0
+603 5 is sleeping
+603 1 has taken a right fork #4
+603 1 is eating
+603 3 has taken a right fork #1
+603 3 is eating
+804 3 is sleeping
+804 4 has taken a right fork #2
+804 4 has taken a left fork #3
+804 4 is eating
+804 2 is thinking
+804 1 is sleeping
+804 2 has taken a right fork #0
+804 2 has taken a left fork #1
+804 2 is eating
+804 5 is thinking
+804 5 has taken a left fork #4
+1005 1 is thinking
+1005 3 is thinking
+1005 2 is sleeping
+1005 1 has taken a left fork #0
+1005 4 is sleeping
+1005 3 has taken a left fork #2
+1005 3 has taken a right fork #1
+1005 3 is eating
+1005 5 has taken a right fork #3
+1005 5 is eating
+1206 4 is thinking
+1206 4 has taken a right fork #2
+1206 3 is sleeping
+1206 2 is thinking
+1206 5 is sleeping
+1206 4 has taken a left fork #3
+1206 4 is eating
+1206 1 has taken a right fork #4
+1206 1 is eating
+1407 3 is thinking
+1407 1 is sleeping
+1407 2 has taken a right fork #0
+1407 2 has taken a left fork #1
+1407 2 is eating
+1407 4 is sleeping
+1407 3 has taken a left fork #2
+1407 5 is thinking
+1407 5 has taken a left fork #4
+1407 5 has taken a right fork #3
+1407 5 is eating
+1608 5 is sleeping
+1608 4 is thinking
+1608 2 is sleeping
+1608 1 is thinking
+1608 1 has taken a left fork #0
+1608 1 has taken a right fork #4
+1608 1 is eating
+1608 3 has taken a right fork #1
+1608 3 is eating
+1809 1 is sleeping
+1809 3 is sleeping
+1809 4 has taken a right fork #2
+1809 4 has taken a left fork #3
+1809 4 is eating
+1809 2 is thinking
+1809 2 has taken a right fork #0
+1809 2 has taken a left fork #1
+1809 2 is eating
+1809 5 is thinking
+1809 5 has taken a left fork #4
+2010 2 is sleeping
+2010 4 is sleeping
+2010 1 is thinking
+2010 1 has taken a left fork #0
+2010 3 is thinking
+2010 3 has taken a left fork #2
+2010 3 has taken a right fork #1
+2010 3 is eating
+2010 5 has taken a right fork #3
+2010 5 is eating
+2211 2 is thinking
+2211 4 is thinking
+2211 5 is sleeping
+2211 1 has taken a right fork #4
+2211 1 is eating
+2211 3 is sleeping
+2211 4 has taken a right fork #2
+2211 4 has taken a left fork #3
+2211 4 is eating
+2412 5 is thinking
+2412 5 has taken a left fork #4
+2412 5 has taken a right fork #3
+2412 5 is eating
+2412 1 is sleeping
+2412 4 is sleeping
+2412 2 has taken a right fork #0
+2412 2 has taken a left fork #1
+2412 2 is eating
+2412 3 is thinking
+2412 3 has taken a left fork #2
+2613 1 is thinking
+2613 4 is thinking
+2613 5 is sleeping
+2613 2 is sleeping
+2613 1 has taken a left fork #0
+2613 1 has taken a right fork #4
+2613 1 is eating
+2613 3 has taken a right fork #1
+2613 3 is eating
+2814 2 is thinking
+2814 5 is thinking
+2814 3 is sleeping
+2814 1 is sleeping
+2814 5 has taken a left fork #4
+2814 2 has taken a right fork #0
+2814 2 has taken a left fork #1
+2814 2 is eating
+2814 5 has taken a right fork #3
+2814 5 is eating
+2814 4 has taken a right fork #2
+3011 4 died
